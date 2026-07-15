@@ -1,0 +1,26 @@
+# Normalize text line endings on checkin
+* text=auto eol=lf
+
+# Arduino sketches are C++ (so GitHub shows the right language)
+*.ino linguist-language=C++
+
+# Binary assets — never diff, never merge
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.heic binary
+*.gif  binary
+*.mp4  binary
+*.pdf  binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
+*.ods  binary
+*.heic binary
+
+# Keep language stats focused on source code, not docs/media
+*.docx linguist-documentation
+*.pptx linguist-documentation
+*.xlsx linguist-documentation
+*.ods  linguist-documentation
+*.txt  linguist-documentation
