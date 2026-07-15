@@ -1,0 +1,12 @@
+NOTICE
+======
+
+This repository is licensed under the MIT License (see LICENSE), which covers
+the original code, documentation, diagrams, and media authored by the
+copyright holder.
+
+Third-party materials that these projects reference — research papers, device
+manuals, datasheets, purchase invoices, and similar copyrighted or personal
+documents — are the property of their respective owners. Such materials are
+intentionally NOT included in this repository (see .gitignore) and are not
+covered by the MIT License.
