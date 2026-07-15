@@ -1,0 +1,15 @@
+# Personal document (purchase invoice) — contains personal / PII info
+Yahboom-invoice.pdf
+
+# Any other third-party PDFs — not ours to redistribute
+*.pdf
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+
+# Microsoft Office lock / temp files
+~$*
+*.tmp
